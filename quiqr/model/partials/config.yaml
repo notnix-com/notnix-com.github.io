@@ -72,15 +72,8 @@ fields:
     groupdata: true
     title: Social
     fields:
-      - key: twitter
-        title: Twitter Username
-        type: string
-        tip: e.g. bepsays
       - key: github
         title: GitHub Username
-        type: string
-      - key: instagram
-        title: Instagram Username
         type: string
 
   - key: privacy

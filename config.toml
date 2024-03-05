@@ -12,9 +12,7 @@ theme = "Paper"
 title = "Not Nix"
 
 [params]
-twitter = "nanxiaobei"
-github = "nanxiaobei"
-instagram = "nan.xiaobei"
+github = "notnix-com"
 
 [markup]
 
@@ -28,7 +26,7 @@ instagram = "nan.xiaobei"
   [[menu.main]]
   identifier = "about"
   name = "About"
-  url = "/about/"
+  url = "/post/about-notnix/"
   weight = 10.0
 
 [taxonomies]
