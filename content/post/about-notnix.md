@@ -1,7 +1,7 @@
 +++
 author = "Pim Snel"
 title = "Not Nix my new place for nix stuff"
-date = "2019-03-11"
+date = "2024-03-05"
 description = "NotNix.com is my new home for Nix related experiments and projects. Enjoy."
 tags = [
   "about"
